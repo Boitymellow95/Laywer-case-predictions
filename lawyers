@@ -1,0 +1,201 @@
+ID,AGE,CTM,CLM,LVL,SDY
+1,54,11,10,Senior Partner,35
+2,25,1,0,Associate,10
+3,30,9,8,Associate,87
+4,26,3,3,Associate,8
+5,28,3,5,Associate,4
+6,39,5,8,Senior Associate,9
+7,34,4,6,Associate,14
+8,36,4,4,Associate,6
+9,39,3,4,Senior Associate,7
+10,64,12,12,Senior Partner,66
+11,38,6,4,Senior Associate,9
+12,33,5,4,Associate,11
+13,26,4,3,Associate,32
+14,35,4,4,Associate,11
+15,27,1,3,Associate,23
+16,31,4,1,Senior Associate,1
+17,53,11,10,Junior Partner,15
+18,57,6,5,Junior Partner,1
+19,30,3,5,Associate,11
+20,58,7,8,Junior Partner,21
+21,25,1,1,Associate,2
+22,31,6,6,Senior Associate,0
+23,26,1,2,Associate,1
+24,38,5,4,Associate,7
+25,50,6,6,Senior Associate,24
+26,26,3,4,Associate,3
+27,69,14,14,Senior Partner,10
+28,57,9,8,Junior Partner,6
+29,55,20,18,Senior Partner,10
+30,49,11,9,Senior Associate,15
+31,27,3,5,Associate,11
+32,58,7,7,Junior Partner,8
+33,69,8,9,Senior Partner,21
+34,32,5,3,Associate,7
+35,70,12,12,Senior Partner,39
+36,26,3,2,Associate,25
+37,42,9,10,Senior Associate,37
+38,34,4,7,Senior Associate,25
+39,53,9,10,Junior Partner,22
+40,56,5,5,Junior Partner,0
+41,66,14,13,Senior Partner,26
+42,57,8,6,Junior Partner,21
+43,56,5,5,Junior Partner,4
+44,63,7,10,Senior Partner,24
+45,61,5,7,Junior Partner,4
+46,70,8,9,Senior Partner,26
+47,48,6,5,Senior Associate,9
+48,46,9,10,Junior Partner,13
+49,47,5,5,Junior Partner,11
+50,54,6,8,Senior Associate,4
+51,69,7,6,Junior Partner,6
+52,33,6,8,Associate,28
+53,48,5,5,Senior Associate,2
+54,58,17,15,Senior Partner,95
+55,59,8,8,Junior Partner,6
+56,44,6,5,Senior Associate,12
+57,42,7,7,Senior Associate,18
+58,58,9,10,Senior Partner,12
+59,51,6,5,Senior Associate,6
+60,39,6,4,Associate,7
+61,27,4,3,Associate,44
+62,37,6,5,Senior Associate,21
+63,59,4,5,Senior Associate,4
+64,26,3,1,Associate,14
+65,28,4,1,Associate,20
+66,42,6,7,Associate,23
+67,50,8,9,Junior Partner,18
+68,30,7,7,Senior Associate,0
+69,29,8,8,Senior Associate,19
+70,63,7,9,Senior Associate,7
+71,56,16,16,Junior Partner,41
+72,30,4,4,Senior Associate,11
+73,65,13,13,Managing Partner,64
+74,69,7,7,Managing Partner,16
+75,29,7,3,Senior Associate,16
+76,69,19,19,Senior Partner,39
+77,50,11,8,Junior Partner,42
+78,38,6,7,Senior Associate,37
+79,49,4,5,Senior Associate,1
+80,60,5,6,Junior Partner,3
+81,42,6,9,Junior Partner,5
+82,56,6,5,Junior Partner,1
+83,38,10,7,Senior Associate,40
+84,53,8,9,Junior Partner,27
+85,49,7,8,Junior Partner,24
+86,28,4,4,Senior Associate,16
+87,43,11,11,Junior Partner,28
+88,67,7,7,Junior Partner,19
+89,62,6,5,Senior Associate,1
+90,54,7,6,Senior Partner,17
+91,25,3,2,Associate,94
+92,49,5,5,Associate,2
+93,39,5,6,Senior Associate,21
+94,61,7,7,Senior Partner,12
+95,34,6,6,Associate,4
+96,75,15,15,Managing Partner,13
+97,44,6,7,Senior Associate,9
+98,38,6,6,Senior Associate,19
+99,61,7,8,Junior Partner,24
+100,38,15,16,Senior Associate,121
+101,44,9,10,Junior Partner,17
+102,73,9,8,Junior Partner,23
+103,57,5,6,Senior Associate,3
+104,26,3,3,Associate,8
+105,36,6,5,Junior Partner,11
+106,45,8,9,Junior Partner,42
+107,37,5,4,Senior Associate,1
+108,26,2,3,Associate,6
+109,36,8,9,Senior Associate,18
+110,49,7,4,Senior Associate,0
+111,50,8,6,Junior Partner,21
+112,52,20,19,Senior Partner,6
+113,50,18,18,Senior Partner,73
+114,35,6,8,Associate,12
+115,63,8,10,Senior Partner,23
+116,26,5,1,Associate,7
+117,71,8,8,Junior Partner,22
+118,55,10,8,Junior Partner,11
+119,66,11,10,Managing Partner,10
+120,35,6,8,Junior Partner,36
+121,44,6,7,Senior Associate,11
+122,41,5,6,Senior Associate,5
+123,30,5,4,Associate,5
+124,26,4,4,Associate,92
+125,31,5,3,Senior Associate,4
+126,40,10,10,Junior Partner,12
+127,60,15,16,Senior Partner,78
+128,63,13,16,Senior Partner,45
+129,71,13,13,Senior Partner,49
+130,31,5,5,Associate,4
+131,47,10,11,Junior Partner,59
+132,29,4,5,Associate,12
+133,35,5,5,Senior Associate,3
+134,27,4,2,Associate,1
+135,45,6,7,Junior Partner,5
+136,62,11,10,Junior Partner,36
+137,47,6,4,Associate,9
+138,43,10,8,Senior Associate,11
+139,60,7,6,Junior Partner,7
+140,34,6,7,Junior Partner,6
+141,27,3,2,Associate,10
+142,29,8,5,Associate,20
+143,31,5,5,Senior Associate,6
+144,47,8,8,Senior Associate,7
+145,69,23,24,Managing Partner,11
+146,29,4,4,Associate,3
+147,56,6,6,Junior Partner,4
+148,39,5,7,Senior Associate,23
+149,70,10,7,Managing Partner,21
+150,60,4,6,Senior Associate,7
+151,62,9,7,Senior Partner,12
+152,75,8,10,Junior Partner,16
+153,38,5,4,Associate,0
+154,46,7,7,Junior Partner,20
+155,41,6,6,Junior Partner,2
+156,61,8,8,Junior Partner,13
+157,32,5,7,Associate,14
+158,61,26,25,Senior Partner,182
+159,65,12,11,Junior Partner,34
+160,30,8,8,Associate,75
+161,27,3,6,Associate,37
+162,28,4,5,Associate,2
+163,57,8,9,Junior Partner,5
+164,40,5,5,Associate,5
+165,48,10,10,Junior Partner,18
+166,35,5,6,Junior Partner,27
+167,27,3,4,Associate,10
+168,65,16,15,Senior Partner,86
+169,73,9,10,Senior Partner,22
+170,70,10,8,Senior Partner,9
+171,37,11,12,Junior Partner,23
+172,73,16,17,Managing Partner,57
+173,40,8,8,Junior Partner,7
+174,34,8,6,Associate,35
+175,58,6,7,Senior Partner,3
+176,66,8,9,Senior Partner,22
+177,30,6,4,Associate,11
+178,39,4,3,Senior Associate,9
+179,36,5,5,Associate,9
+180,58,16,16,Senior Partner,50
+181,26,4,4,Associate,30
+182,52,9,10,Senior Associate,9
+183,31,7,3,Associate,4
+184,62,6,5,Junior Partner,4
+185,63,6,5,Senior Partner,7
+186,57,6,5,Senior Associate,4
+187,46,11,11,Junior Partner,26
+188,25,2,2,Associate,13
+189,49,7,7,Junior Partner,4
+190,57,11,11,Junior Partner,32
+191,28,1,4,Associate,1
+192,43,7,7,Senior Associate,3
+193,44,7,8,Senior Associate,6
+194,26,4,5,Associate,39
+195,43,2,5,Junior Partner,0
+196,36,6,5,Senior Associate,5
+197,43,6,6,Senior Associate,4
+198,66,8,9,Senior Partner,11
+199,71,10,9,Senior Partner,18
+200,42,11,11,Junior Partner,7
